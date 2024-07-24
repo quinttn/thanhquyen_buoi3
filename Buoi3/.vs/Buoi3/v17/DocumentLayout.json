@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91BFED62-BE65-4C92-B531-90E49700F376}|TimKiemNhiPhan_KhongDeQui\\TimKiemNhiPhan_KhongDeQui.csproj|c:\\users\\win 10\\desktop\\quin\\pttktt_buoi3\\buoi3\\timkiemnhiphan_khongdequi\\timkiemnhiphan_khongdequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BFED62-BE65-4C92-B531-90E49700F376}|TimKiemNhiPhan_KhongDeQui\\TimKiemNhiPhan_KhongDeQui.csproj|solutionrelative:timkiemnhiphan_khongdequi\\timkiemnhiphan_khongdequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA89AF2-43CE-48A5-9B64-09A19BFF6287}|TinhTong_KhongDeQui\\TinhTong_KhongDeQui.csproj|c:\\users\\win 10\\desktop\\quin\\pttktt_buoi3\\buoi3\\tinhtong_khongdequi\\tinhtong_khongdequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA89AF2-43CE-48A5-9B64-09A19BFF6287}|TinhTong_KhongDeQui\\TinhTong_KhongDeQui.csproj|solutionrelative:tinhtong_khongdequi\\tinhtong_khongdequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6CB888-D368-4FD6-9C8E-199E07CE659B}|TinhTong_DeQui\\TinhTong_DeQui.csproj|c:\\users\\win 10\\desktop\\quin\\pttktt_buoi3\\buoi3\\tinhtong_dequi\\tinhtong_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6CB888-D368-4FD6-9C8E-199E07CE659B}|TinhTong_DeQui\\TinhTong_DeQui.csproj|solutionrelative:tinhtong_dequi\\tinhtong_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BF9AD9-C383-4CB0-94F1-6C5DA243D5AA}|QuickSort_DeQui\\QuickSort_DeQui.csproj|c:\\users\\win 10\\desktop\\quin\\pttktt_buoi3\\buoi3\\quicksort_dequi\\quicksort_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BF9AD9-C383-4CB0-94F1-6C5DA243D5AA}|QuickSort_DeQui\\QuickSort_DeQui.csproj|solutionrelative:quicksort_dequi\\quicksort_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97620D69-0BB2-4AC4-9226-3C30DF7A3633}|TimKiemNhiPhan_DeQui\\TimKiemNhiPhan_DeQui.csproj|c:\\users\\win 10\\desktop\\quin\\pttktt_buoi3\\buoi3\\timkiemnhiphan_dequi\\timkiemnhiphan_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97620D69-0BB2-4AC4-9226-3C30DF7A3633}|TimKiemNhiPhan_DeQui\\TimKiemNhiPhan_DeQui.csproj|solutionrelative:timkiemnhiphan_dequi\\timkiemnhiphan_dequi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimKiemNhiPhan_KhongDeQui.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\TimKiemNhiPhan_KhongDeQui\\TimKiemNhiPhan_KhongDeQui.cs",
+              "RelativeDocumentMoniker": "TimKiemNhiPhan_KhongDeQui\\TimKiemNhiPhan_KhongDeQui.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\TimKiemNhiPhan_KhongDeQui\\TimKiemNhiPhan_KhongDeQui.cs",
+              "RelativeToolTip": "TimKiemNhiPhan_KhongDeQui\\TimKiemNhiPhan_KhongDeQui.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvykAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:43:08.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimKiemNhiPhan_DeQui.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\TimKiemNhiPhan_DeQui\\TimKiemNhiPhan_DeQui.cs",
+              "RelativeDocumentMoniker": "TimKiemNhiPhan_DeQui\\TimKiemNhiPhan_DeQui.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\TimKiemNhiPhan_DeQui\\TimKiemNhiPhan_DeQui.cs",
+              "RelativeToolTip": "TimKiemNhiPhan_DeQui\\TimKiemNhiPhan_DeQui.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:31:15.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuickSort_DeQui.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\QuickSort_DeQui\\QuickSort_DeQui.cs",
+              "RelativeDocumentMoniker": "QuickSort_DeQui\\QuickSort_DeQui.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\QuickSort_DeQui\\QuickSort_DeQui.cs",
+              "RelativeToolTip": "QuickSort_DeQui\\QuickSort_DeQui.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:06:12.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TinhTong_DeQui.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\TinhTong_DeQui\\TinhTong_DeQui.cs",
+              "RelativeDocumentMoniker": "TinhTong_DeQui\\TinhTong_DeQui.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\TinhTong_DeQui\\TinhTong_DeQui.cs",
+              "RelativeToolTip": "TinhTong_DeQui\\TinhTong_DeQui.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:56:52.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TinhTong_KhongDeQui.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\TinhTong_KhongDeQui\\TinhTong_KhongDeQui.cs",
+              "RelativeDocumentMoniker": "TinhTong_KhongDeQui\\TinhTong_KhongDeQui.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi3\\Buoi3\\TinhTong_KhongDeQui\\TinhTong_KhongDeQui.cs",
+              "RelativeToolTip": "TinhTong_KhongDeQui\\TinhTong_KhongDeQui.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:47:48.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\bin\Debug\net8.0\QuickSort_DeQui.exe
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\bin\Debug\net8.0\QuickSort_DeQui.deps.json
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\bin\Debug\net8.0\QuickSort_DeQui.runtimeconfig.json
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\bin\Debug\net8.0\QuickSort_DeQui.dll
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\bin\Debug\net8.0\QuickSort_DeQui.pdb
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\obj\Debug\net8.0\QuickSort_DeQui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\obj\Debug\net8.0\QuickSort_DeQui.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\obj\Debug\net8.0\QuickSort_DeQui.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\obj\Debug\net8.0\QuickSort_DeQui.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\obj\Debug\net8.0\QuickSort_DeQui.sourcelink.json
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\obj\Debug\net8.0\QuickSort_DeQui.dll
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\obj\Debug\net8.0\refint\QuickSort_DeQui.dll
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\obj\Debug\net8.0\QuickSort_DeQui.pdb
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\obj\Debug\net8.0\QuickSort_DeQui.genruntimeconfig.cache
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\QuickSort_DeQui\obj\Debug\net8.0\ref\QuickSort_DeQui.dll

@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\bin\Debug\net8.0\TimKiemNhiPhan_DeQui.exe
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\bin\Debug\net8.0\TimKiemNhiPhan_DeQui.deps.json
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\bin\Debug\net8.0\TimKiemNhiPhan_DeQui.runtimeconfig.json
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\bin\Debug\net8.0\TimKiemNhiPhan_DeQui.dll
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\bin\Debug\net8.0\TimKiemNhiPhan_DeQui.pdb
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\obj\Debug\net8.0\TimKiemNhiPhan_DeQui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\obj\Debug\net8.0\TimKiemNhiPhan_DeQui.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\obj\Debug\net8.0\TimKiemNhiPhan_DeQui.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\obj\Debug\net8.0\TimKiemNhiPhan_DeQui.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\obj\Debug\net8.0\TimKiemNhiPhan_DeQui.sourcelink.json
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\obj\Debug\net8.0\TimKiemNhiPhan_DeQui.dll
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\obj\Debug\net8.0\refint\TimKiemNhiPhan_DeQui.dll
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\obj\Debug\net8.0\TimKiemNhiPhan_DeQui.pdb
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\obj\Debug\net8.0\TimKiemNhiPhan_DeQui.genruntimeconfig.cache
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi3\Buoi3\TimKiemNhiPhan_DeQui\obj\Debug\net8.0\ref\TimKiemNhiPhan_DeQui.dll
